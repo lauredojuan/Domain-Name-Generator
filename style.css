@@ -1,0 +1,66 @@
+
+
+body{ 
+	margin: 0; margin-top: 5%;
+	background: #eee;
+	/*
+ 
+  */
+}
+ul li{
+	list-style: none;
+}
+li {
+	padding: 1px;
+}
+h1 {
+	margin: auto;
+	padding: 0;
+}
+div{
+    text-align:center;
+    margin: 0;
+}
+.container{
+	width: 80%;
+	margin: auto;
+    /*
+    background: orange;
+    */
+ }
+ .input-container{
+ 	margin: auto;
+ 	width: 300px;
+ 	/*
+      background: grey;
+  */
+ }
+ .contName{
+ 	margin-top: 20px;
+    
+    /*
+ background: pink;
+  */
+}
+button{
+	margin-top: 10px;
+	color: white;
+	background: blue;
+	/*
+ 
+  */
+}
+.layout-right{
+	display: flex;
+	justify-content: flex-end;
+}
+.textBig{
+	font-size: 20px;
+}
+
+  /*
+ 
+  */
+ 
+
+
